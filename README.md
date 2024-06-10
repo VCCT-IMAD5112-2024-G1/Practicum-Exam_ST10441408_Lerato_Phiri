@@ -11,5 +11,6 @@ Instructions:
  10.Once you are satisfied you can click on Main Screen button, and it will redirect you to the home splash page. 
  11. When you are satisfied with the experience you can exit the app 
  12. Enjoy!
-
+PowerPoint Link: https://1drv.ms/p/c/abaec5836e50df20/EWAUVzn4modMmbCr5NFS9ToBI34UXljeNUhZTZF99MvZAw?e=6cCbbu 
+Word Doc: https://1drv.ms/w/c/abaec5836e50df20/EQq7beXJ5mxLqxf1A5-p3aEBLLJtDu6GVs0NDdTJzlJ8AQ
 ![Splash Page ](https://github.com/vickylicious05/Practicum-Exam/assets/164025839/6da9d95a-1fcf-40d5-a403-29ce565e20f4)
