@@ -16,11 +16,20 @@ class MainActivity : AppCompatActivity() {
 
         val mainButton: Button = findViewById<Button>(R.id.mainButton)
 
+        val exitButton: Button = findViewById(R.id.exitButton)
+
+
         // code to change from first to second page
         mainButton.setOnClickListener {
             val intent = Intent(this@MainActivity, MainScreen::class.java)
             startActivity(intent)
+
         }
+        // Code to exit the application completely
+        exitButton.setOnClickListener {
+            finishAffinity()
+        }
+
 
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
             val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())

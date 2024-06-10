@@ -4,5 +4,15 @@
     <string name="number">ST10441408</string>
     <string name="Button">Main Screen</string>
     <string name="Button2">Exit App</string>
+    <string name="Text">Weather For The Week</string>
+    <string name="Text2">Average this week:</string>
+    <string name="Text3">Enter a Day:</string>
+    <string name="Text4">Day:</string>
+    <string name="Button3">Detail Screen</string>
+    <string name="Text5">The Weather</string>
+    <string name="Button4">Average</string>
+    <string name="Button5">Clear</string>
+
+
 </resources>
 
